@@ -14,10 +14,10 @@
         .font-serif {
             font-family: 'Shippori Mincho', serif;
         }
-        /* ヒーローエリアの背景設定（Googleドライブの画像を直接参照可能な形式で設定） */
+        /* ヒーローエリアの背景設定（Googleドライブの画像を直リンク形式で設定） */
         .hero-bg {
             background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
-                        url('https://lh3.googleusercontent.com/d/1L5OK9OEg5CvhxNMWMrwpMig1LNr65WDq');
+                        url('https://lh3.googleusercontent.com/d/1F-vQW_Qb20bNe_McKrxzI8uKdwyflVxY');
             background-size: cover;
             background-position: center;
         }
@@ -34,7 +34,6 @@
             <!-- フォントサイズを大きく修正 -->
             <p class="text-xl md:text-3xl tracking-[0.2em] mb-6 opacity-90 font-serif">第3回 地域の交流会</p>
             <h1 class="text-4xl md:text-6xl font-serif mb-6 leading-tight">日進地域の未来を。<br>みんなで描く</h1>
-            <!-- 会場名を削除 -->
             <p class="text-lg md:text-xl font-light mb-8 font-serif">2026年5月9日(土) 18:00開始</p>
             <a href="#register" class="bg-[#2d5a27] hover:bg-[#1e3d1a] text-white px-8 py-4 rounded-full transition duration-300 font-bold shadow-lg inline-block text-lg">参加を申し込む</a>
         </div>
@@ -90,7 +89,7 @@
                         <h4 class="font-serif text-lg mb-3 text-[#2d5a27] border-b border-stone-300 pb-1">懇親会・意見交換会</h4>
                         <ul class="space-y-2 text-sm leading-relaxed text-stone-700">
                             <li>・参加者自己紹介</li>
-                            <li>・勉強会内容의 質問や意見交換</li>
+                            <li>・勉強会内容の質問や意見交換</li>
                             <li>・楽しく交流</li>
                         </ul>
                     </div>
@@ -129,3 +128,6 @@
     <footer class="bg-stone-800 text-stone-400 py-8 text-center text-xs">
         <p>&copy; 2026 地域の交流会実行委員会</p>
     </footer>
+
+</body>
+</html>
