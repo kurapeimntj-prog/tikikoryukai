@@ -14,10 +14,10 @@
         .font-serif {
             font-family: 'Shippori Mincho', serif;
         }
-        /* ヒーローエリアの背景設定（Googleドライブの画像を直リンク形式で設定） */
+        /* ヒーローエリアの背景設定（Googleドライブの指定画像を設定） */
         .hero-bg {
             background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
-                        url('https://lh3.googleusercontent.com/d/1F-vQW_Qb20bNe_McKrxzI8uKdwyflVxY');
+                        url('https://lh3.googleusercontent.com/d/1-TUqy3hvtoqr8lh0Yjcbc0HUjKp7Ho7W');
             background-size: cover;
             background-position: center;
         }
@@ -31,7 +31,6 @@
     <!-- ヒーローセクション -->
     <header class="hero-bg h-[70vh] flex items-center justify-center text-white text-center px-4">
         <div>
-            <!-- フォントサイズを大きく修正 -->
             <p class="text-xl md:text-3xl tracking-[0.2em] mb-6 opacity-90 font-serif">第3回 地域の交流会</p>
             <h1 class="text-4xl md:text-6xl font-serif mb-6 leading-tight">日進地域の未来を。<br>みんなで描く</h1>
             <p class="text-lg md:text-xl font-light mb-8 font-serif">2026年5月9日(土) 18:00開始</p>
