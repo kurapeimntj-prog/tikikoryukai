@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -14,10 +14,10 @@
         .font-serif {
             font-family: 'Shippori Mincho', serif;
         }
-        /* ヒーローエリアの背景設定（ここにバナー画像を設定してください） */
+        /* ヒーローエリアの背景設定（Googleドライブの画像を直接参照可能な形式で設定） */
         .hero-bg {
-            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                        url(https://drive.google.com/drive/folders/1L5OK9OEg5CvhxNMWMrwpMig1LNr65WDq)');
+            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
+                        url('https://lh3.googleusercontent.com/d/1L5OK9OEg5CvhxNMWMrwpMig1LNr65WDq');
             background-size: cover;
             background-position: center;
         }
@@ -90,7 +90,7 @@
                         <h4 class="font-serif text-lg mb-3 text-[#2d5a27] border-b border-stone-300 pb-1">懇親会・意見交換会</h4>
                         <ul class="space-y-2 text-sm leading-relaxed text-stone-700">
                             <li>・参加者自己紹介</li>
-                            <li>・勉強会内容の質問や意見交換</li>
+                            <li>・勉強会内容의 質問や意見交換</li>
                             <li>・楽しく交流</li>
                         </ul>
                     </div>
@@ -129,6 +129,3 @@
     <footer class="bg-stone-800 text-stone-400 py-8 text-center text-xs">
         <p>&copy; 2026 地域の交流会実行委員会</p>
     </footer>
-
-</body>
-</html>
