@@ -69,7 +69,7 @@
                         <h4 class="font-bold text-[#2d5a27] mb-1 text-lg">スピーカー</h4>
                         <ul class="list-disc list-inside space-y-2 text-stone-700">
                             <li>野原 健志 氏（日進桜まつり実行委員長）</li>
-                            <li>吉成 竜之助 氏（日進大宮なび編集長）</li>
+                            <li>講師調整中</li>
                             <li>片倉 淳平 氏（元さいたま市職員）</li>
                         </ul>
                     </div>
@@ -80,7 +80,7 @@
                         <h4 class="font-serif text-lg mb-3 text-[#2d5a27] border-b border-stone-300 pb-1">勉強会内容</h4>
                         <ul class="space-y-2 text-sm leading-relaxed text-stone-700">
                             <li>・日進桜まつりの立上げ経緯とイベント報告</li>
-                            <li>・日進大宮なびと日進地域の歴史</li>
+                            <li>・日進大宮なびと日進地域の歴史（調整中）</li>
                             <li>・さいたま市北区の地域特性</li>
                         </ul>
                     </div>
@@ -118,7 +118,23 @@
                     </a>
                 </div>
             </div>
+
+    <!-- 公式LINEセクション -->
+    <section class="py-20 px-6 bg-stone-100 text-center">
+        <div class="max-w-2xl mx-auto">
+            <h2 class="font-serif text-2xl md:text-3xl mb-4">最新情報を受け取る</h2>
+            <p class="text-stone-600 mb-10">
+                公式LINEでは次回の開催案内や活動報告をお届けしています。
+            </p>
             
+            <a href="https://qr-official.line.me/gs/M_517ynoyv_BW.png?oat_content=qr" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-3 bg-[#06C755] hover:bg-[#05b14c] text-white px-10 py-6 rounded-2xl transition duration-300 font-bold text-xl shadow-xl w-full max-w-md group">
+                <svg class="w-8 h-8 fill-current" viewBox="0 0 24 24">
+                    <path d="M24 10.304c0-5.369-5.383-9.738-12-9.738-6.616 0-12 4.369-12 9.738 0 4.814 4.269 8.846 10.036 9.608.391.084.922.258 1.057.59.155.398.102 1.026.05 1.429-.19 1.557-.84 6.003-.966 6.89-.147.933.511.564 1.057.213 1.059-.677 5.727-3.483 7.82-5.891 1.616-1.846 2.861-3.8 3.007-5.845.047-.655.047-1.319.047-1.922zm-15.59 3.291c0 .421-.34.762-.761.762-.421 0-.762-.341-.762-.762v-4.522c0-.422.341-.762.762-.762.421 0 .761.34.761.762v4.522zm3.307 0c0 .421-.34.762-.761.762-.19 0-.363-.07-.492-.185l-1.547-1.392v.815c0 .421-.341.762-.762.762-.421 0-.762-.341-.762-.762v-4.522c0-.422.341-.762.762-.762.421 0 .762.34.762.762v.815l1.547 1.392v-.815c0-.422.341-.762.762-.762.421 0 .761.34.761.762v4.522zm3.307 0c0 .421-.34.762-.761.762h-1.785c-.421 0-.762-.341-.762-.762v-4.522c0-.422.341-.762.762-.762.421 0 .761.34.761.762v3.76h1.024c.421 0 .761.341.761.762zm3.307 0c0 .421-.34.762-.761.762h-1.785c-.421 0-.762-.341-.762-.762v-4.522c0-.422.341-.762.762-.762h1.785c.421 0 .761.34.761.762s-.34.762-.761.762h-1.024v.748h1.024c.421 0 .761.341.761.762s-.34.762-.761.762h-1.024v.74h1.024c.421 0 .761.341.761.762z"/>
+                </svg>
+                <span>公式LINEを追加する</span>
+            </a>
+            
+            <p class="mt-12 text-stone-500 font-medium italic">地域の交流をもっと身近に、もっと楽しく。</p>
             <p class="text-stone-500 font-medium">主宰：地域の交流会実行委員会</p>
         </div>
     </section>
