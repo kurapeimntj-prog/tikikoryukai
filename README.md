@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="ja" class="notranslate">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" content="notranslate">
     <title>第3回 地域の交流会：日進地域の未来を。みんなで描く</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -12,10 +13,10 @@
             scroll-behavior: smooth;
             -webkit-text-size-adjust: 100%;
         }
-        /* ヒーローエリアの背景設定（新しい指定画像を設定） */
+        /* ヒーローエリアの背景設定 */
         .hero-bg {
             background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), 
-                        url('https://lh3.googleusercontent.com/d/1S55S9vXWf1p-M_FfI1KxY0X_vjW_3Czk');
+                        url('https://lh3.googleusercontent.com/d/1D44SlIhHMLb2R2nyAejoziQviZyJmA9Z');
             background-size: cover;
             background-position: center;
         }
