@@ -69,7 +69,7 @@
                         <h4 class="font-bold text-[#2d5a27] mb-1 text-lg">スピーカー</h4>
                         <ul class="list-disc list-inside space-y-2 text-stone-700">
                             <li>野原 健志 氏（日進桜まつり実行委員長）</li>
-                            <li>講師調整中</li>
+                            <li>吉成 竜之助 氏（日進大宮なび編集長）</li>
                             <li>片倉 淳平 氏（元さいたま市職員）</li>
                         </ul>
                     </div>
@@ -80,7 +80,7 @@
                         <h4 class="font-serif text-lg mb-3 text-[#2d5a27] border-b border-stone-300 pb-1">勉強会内容</h4>
                         <ul class="space-y-2 text-sm leading-relaxed text-stone-700">
                             <li>・日進桜まつりの立上げ経緯とイベント報告</li>
-                            <li>・日進大宮なびと日進地域の歴史（調整中）</li>
+                            <li>・日進大宮なびと日進地域の歴史</li>
                             <li>・さいたま市北区の地域特性</li>
                         </ul>
                     </div>
@@ -98,7 +98,7 @@
     </section>
 
     <!-- 申し込みセクション -->
-    <section id="register" class="py-20 px-6 text-center">
+    <section id="register" class="py-20 px-6 text-center border-b border-stone-200">
         <div class="max-w-2xl mx-auto">
             <h2 class="font-serif text-2xl md:text-3xl mb-8">参加申込み</h2>
             <div class="mb-10 p-6 bg-green-50 rounded-lg border border-green-100">
@@ -118,6 +118,8 @@
                     </a>
                 </div>
             </div>
+        </div>
+    </section>
 
     <!-- 公式LINEセクション -->
     <section class="py-20 px-6 bg-stone-100 text-center">
