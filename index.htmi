@@ -109,7 +109,7 @@
                             </div>
                             <div>
                                 <p class="font-black text-lg">野原 健志 氏</p>
-                                <p class="text-xs text-stone-500 font-bold">日進さくら祭り実行委員長</p>
+                                <p class="text-xs text-stone-500 font-bold">日進未来を紡ぐ会会長</p>
                             </div>
                         </div>
                         <div class="flex items-center gap-4 opacity-60">
