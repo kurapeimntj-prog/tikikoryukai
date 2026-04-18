@@ -49,7 +49,7 @@
         <div class="accent-border pl-6 md:pl-10 mb-12">
             <h2 class="text-2xl md:text-4xl font-black mb-8 text-[#2d5a27] leading-tight">なぜ人が住み続けるのか。<br>その魅力と地域力を探る。</h2>
             <p class="leading-relaxed text-stone-600 text-base md:text-lg font-medium">
-                大宮のすぐ北にありながら、独自の歴史と共同体文化を育んできた日進。宮原や土呂とは異なる「暮らしを整える街」としての魅力について、地域に住む人たちが地域に関心の高い人と共に意見交換を行い、未来を描きます。
+                大宮のすぐ北にありながら、独自の歴史と共同体文化を育んできた日進。宮原や土呂とは異なる「暮らしを整える街」としての魅力について、地域に住む人が地域に関心の高い人と共に意見交換を行い、その未来を描きます。
             </p>
         </div>
     </section>
@@ -98,40 +98,48 @@
                 <!-- 右カラム：登壇者 -->
                 <div class="bg-stone-50 p-8 md:p-10 rounded-3xl border-2 border-stone-100">
                     <h4 class="text-xl md:text-2xl font-black mb-8 text-[#2d5a27] flex items-center">
-                        スピーカー紹介
+                        スピーカー紹介・セッション
                     </h4>
-                    <div class="space-y-8">
-                        <div class="flex items-center gap-4">
-                            <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center text-[#2d5a27]">
+                    <div class="space-y-10">
+                        <!-- 野原氏 -->
+                        <div class="flex items-start gap-4">
+                            <div class="w-12 h-12 bg-green-100 rounded-full shrink-0 flex items-center justify-center text-[#2d5a27]">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                                 </svg>
                             </div>
                             <div>
+                                <p class="text-sm font-black text-[#2d5a27] mb-1">１．「日進未来を紡ぐ会について」</p>
                                 <p class="font-black text-lg">野原 健志 氏</p>
                                 <p class="text-xs text-stone-500 font-bold">日進未来を紡ぐ会会長</p>
                             </div>
                         </div>
-                        <div class="flex items-center gap-4 opacity-60">
-                            <div class="w-12 h-12 bg-stone-200 rounded-full flex items-center justify-center text-stone-500">
+
+                        <!-- 片倉氏 -->
+                        <div class="flex items-start gap-4">
+                            <div class="w-12 h-12 bg-green-100 rounded-full shrink-0 flex items-center justify-center text-[#2d5a27]">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                                </svg>
+                            </div>
+                            <div>
+                                <p class="text-sm font-black text-[#2d5a27] mb-1">２．「さいたま市北区の地域事情について」</p>
+                                <p class="font-black text-lg">片倉 淳平 氏</p>
+                                <p class="text-xs text-stone-500 font-bold">元さいたま市職員</p>
+                            </div>
+                        </div>
+
+                        <!-- 調整中 -->
+                        <div class="flex items-start gap-4 opacity-60">
+                            <div class="w-12 h-12 bg-stone-200 rounded-full shrink-0 flex items-center justify-center text-stone-500">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
                             </div>
                             <div>
+                                <p class="text-sm font-black mb-1">３．調整中</p>
                                 <p class="font-black text-lg">スピーカー調整中</p>
-                                <p class="text-xs text-stone-500 font-bold">決定次第LINEにてお知らせいたします</p>
-                            </div>
-                        </div>
-                        <div class="flex items-center gap-4">
-                            <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center text-[#2d5a27]">
-                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                                </svg>
-                            </div>
-                            <div>
-                                <p class="font-black text-lg">片倉 淳平 氏</p>
-                                <p class="text-xs text-stone-500 font-bold">元さいたま市職員</p>
+                                <p class="text-xs text-stone-500 font-bold font-medium">決定次第公式LINE等でお知らせします</p>
                             </div>
                         </div>
                     </div>
