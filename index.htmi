@@ -49,7 +49,7 @@
         <div class="accent-border pl-6 md:pl-10 mb-12">
             <h2 class="text-2xl md:text-4xl font-black mb-8 text-[#2d5a27] leading-tight">なぜ人が住み続けるのか。<br>その魅力と地域力を探る。</h2>
             <p class="leading-relaxed text-stone-600 text-base md:text-lg font-medium">
-                大宮のすぐ北にありながら、独自の歴史と共同体文化を育んできた日進。宮原や土呂とは異なる「暮らしを整える街」としての魅力について、地域に住む人が地域に関心の高い人と共に意見交換を行い、その未来を描きます。
+                大宮のすぐ北にありながら、独自の歴史と共同体文化を育んできた日進. 宮原や土呂とは異なる「暮らしを整える街」としての魅力について、地域に住む人が地域に関心の高い人と共に意見交換を行い、その未来を描きます。
             </p>
         </div>
     </section>
@@ -129,7 +129,7 @@
                             </div>
                         </div>
 
-                        <!-- 吉成氏 -->
+                        <!-- north氏 -->
                         <div class="flex items-start gap-4">
                             <div class="w-12 h-12 bg-green-100 rounded-full shrink-0 flex items-center justify-center text-[#2d5a27]">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -138,8 +138,8 @@
                             </div>
                             <div>
                                 <p class="text-sm font-black text-[#2d5a27] mb-1">３．「日進大宮なびへの想いについて」</p>
-                                <p class="font-black text-lg">吉成 竜之助 氏</p>
-                                <p class="text-xs text-stone-500 font-bold">編集長・大学生</p>
+                                <p class="font-black text-lg">north 氏</p>
+                                <p class="text-xs text-stone-500 font-bold">日進大宮なび代表・大学生</p>
                             </div>
                         </div>
                     </div>
