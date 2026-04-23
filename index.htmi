@@ -129,17 +129,17 @@
                             </div>
                         </div>
 
-                        <!-- 調整中 -->
-                        <div class="flex items-start gap-4 opacity-60">
-                            <div class="w-12 h-12 bg-stone-200 rounded-full shrink-0 flex items-center justify-center text-stone-500">
+                        <!-- 吉成氏 -->
+                        <div class="flex items-start gap-4">
+                            <div class="w-12 h-12 bg-green-100 rounded-full shrink-0 flex items-center justify-center text-[#2d5a27]">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                                 </svg>
                             </div>
                             <div>
-                                <p class="text-sm font-black mb-1">３．調整中</p>
-                                <p class="font-black text-lg">スピーカー調整中</p>
-                                <p class="text-xs text-stone-500 font-bold font-medium">決定次第公式LINE等でお知らせします</p>
+                                <p class="text-sm font-black text-[#2d5a27] mb-1">３．「日進大宮なびへの想いについて」</p>
+                                <p class="font-black text-lg">吉成 竜之助 氏</p>
+                                <p class="text-xs text-stone-500 font-bold">編集長・大学生</p>
                             </div>
                         </div>
                     </div>
